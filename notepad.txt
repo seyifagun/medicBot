@@ -1,0 +1,10 @@
+#RAG Concept
+
+#FastAPI, 
+#Text Chunking, 
+#Embedding, 
+#RAG Chain, 
+#Query Processing, 
+#Vector Store, 
+#PDF Upload, 
+#Answer Generation
